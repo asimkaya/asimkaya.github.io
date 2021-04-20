@@ -1,1 +1,1 @@
-[Personal Web Site DEMO](https://asimkaya.github.io?target=_blank)
+[Personal Web Site DEMO](https://asimkaya.github.io)
